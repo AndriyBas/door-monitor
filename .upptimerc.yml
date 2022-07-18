@@ -5,8 +5,10 @@ repo: door-monitor # The name of this repository
 sites:
   - name: Door Live
     url: https://doorstead.com
+    icon: https://assets.website-files.com/62a0ed35b9f7fb5bfa645b1c/62a0ed35b9f7fb03f8645bf5_32x32.png
   - name: Door Staging
     url: https://doorstead-v3.webflow.io
+    icon: https://assets.website-files.com/62a0ed35b9f7fb5bfa645b1c/62a0ed35b9f7fb03f8645bf5_32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
