@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /door-monitor
-  logoUrl: https://assets.website-files.com/62a0ed35b9f7fb5bfa645b1c/62a0ed35b9f7fb5878645b8b_logo-horizontal-green-dark-mode-transparent.svg
+  logoUrl: https://assets.website-files.com/62a0ed35b9f7fb5bfa645b1c/62a0ed35b9f7fb52d8645bb1_logo-horizontal-green-transparent.svg
   name: Door Monitor
   introTitle: "**Door Monitor** is the uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Door Staging](https://doorstead-v3.webflow.io). No server required — just GitHub Actions, Issues, and Pages.
