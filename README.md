@@ -1,6 +1,6 @@
 # [📈 Live Status](https://andriybas.github.io/door-monitor): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Andriy Bas](https://plai.team), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Door Monitor](https://doorstead-v3.webflow.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/andriybas/door-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/andriybas/door-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/andriybas/door-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/andriybas/door-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
