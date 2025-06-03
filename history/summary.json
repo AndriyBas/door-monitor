@@ -4,19 +4,19 @@
     "url": "https://doorstead-v3.webflow.io",
     "icon": "https://assets.website-files.com/62a0ed35b9f7fb5bfa645b1c/62a0ed35b9f7fb03f8645bf5_32x32.png",
     "slug": "door-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 1637,
-    "timeWeek": 586,
-    "timeMonth": 291,
+    "timeDay": 1133,
+    "timeWeek": 535,
+    "timeMonth": 286,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-06-03": 0
+      "2025-06-03": 15
     }
   }
 ]
